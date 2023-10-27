@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.first {
+  /* background: red; */
+  height: 700px;
+  align-items: center;
+  justify-content: center;
+}
+
+.name {
+  align-items: center;
+  justify-content: center;
+}
